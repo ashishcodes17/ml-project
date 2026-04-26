@@ -111,7 +111,7 @@ ml-proj/
 ## Quick start (Windows)
 
 ```powershell
-cd /d f:\fullstack-learn\ml-proj
+cd /d F:PROJPATH\ml-project
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
