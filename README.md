@@ -236,9 +236,9 @@ This creates a single content representation per movie.
 - No collaborative filtering yet (no user behavior modeling).
 - Metadata quality from source datasets can affect recommendation quality.
 
-## Viva-ready explanation points
 
-Use these points while presenting:
+
+
 
 1. Problem: recommend similar Indian movies at scale.
 2. Data: built from IMDb online dumps; filtered and cleaned.
@@ -256,11 +256,4 @@ Use these points while presenting:
 5. Add caching/indexing for lower-latency production inference.
 
 ---
-
-If you are submitting this for course evaluation, include:
-
-- this README,
-- command logs (dataset/training/evaluation),
-- screenshots of the app,
-- and a short PDF report mapping theory to implementation.
-
+ 
